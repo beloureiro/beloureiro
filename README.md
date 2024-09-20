@@ -1,4 +1,6 @@
-## Hello, welcome! I develop solutions. How about developing them together? Get in touch :)
+## Hello, welcome! I develop solutions. 
+How about developing them together? 
+Get in touch :)
 
 
 <div style="display: inline_block"><br>
@@ -13,5 +15,4 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/bernardoloureiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
