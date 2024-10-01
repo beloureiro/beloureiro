@@ -8,6 +8,9 @@
   <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
+  <!-- Line break to separate the two sections -->
+  <br><br>
+
   <!-- Contact Icons with working links -->
   <a href="mailto:bc@inmotion.today" style="text-decoration: none;">
     <img align="center" alt="Mail Icon" height="30" width="30" src="https://img.icons8.com/ios-filled/50/ffffff/email.png">
