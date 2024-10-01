@@ -9,17 +9,10 @@
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <!-- Contact Icons -->
-  <a href="mailto:bc@inmotion.today" style="text-decoration: none;">
-    <img align="center" alt="Mail Icon" height="30" width="30" src="https://img.icons8.com/ios-filled/50/000000/email.png">
-  </a>
-  <a href="tel:+351915542701" style="text-decoration: none;">
-    <img align="center" alt="Phone Icon" height="30" width="30" src="https://img.icons8.com/ios-filled/50/000000/phone.png">
-  </a>
-  <a href="https://www.linkedin.com/company/inmotionc" style="text-decoration: none;">
-    <img align="center" alt="LinkedIn Icon" height="30" width="30" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">
-  </a>
-  <a href="https://wa.me/351915542701" style="text-decoration: none;">
-    <img align="center" alt="WhatsApp Icon" height="30" width="30" src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png">
-  </a>
+  <img align="center" alt="Mail Icon" height="30" width="30" src="https://img.icons8.com/ios-filled/50/ffffff/email.png">
+  <img align="center" alt="Phone Icon" height="30" width="30" src="https://img.icons8.com/ios-filled/50/ffffff/phone.png">
+  <img align="center" alt="LinkedIn Icon" height="30" width="30" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png">
+  <img align="center" alt="WhatsApp Icon" height="30" width="30" src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png">
 </div>
+
 
