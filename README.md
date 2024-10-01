@@ -1,4 +1,4 @@
-## Hello, welcome! I dev solutions. How about dev together? Get in touch :)
+## Hey, welcome! I create cool solutions. How about we build something together? Reach out! :)
 
 
 <div style="display: inline_block"><br>
