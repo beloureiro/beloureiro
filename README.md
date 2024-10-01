@@ -1,6 +1,5 @@
-## Hey, welcome! I create cool solutions. 
-## How about we build something together? 
-## Reach out! :)
+## Hey, welcome! I create cool solutions.<br>How about we build something together?<br>Reach out! :)
+
 
 
 <div style="display: inline_block"><br>
