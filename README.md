@@ -1,6 +1,5 @@
 ## Hey, welcome! I create cool solutions.<br>How about we build something together?<br>Reach out! :)
 
-<!-- Icons section with both technology and contact icons -->
 <div style="display: inline_block"><br>
   <!-- Technology Icons -->
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,9 +9,17 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <!-- Contact Icons -->
-  <img align="center" alt="Mail Icon" height="30" width="40" src="path_to_mail_icon">
-  <img align="center" alt="Phone Icon" height="30" width="40" src="path_to_phone_icon">
-  <img align="center" alt="LinkedIn Icon" height="30" width="40" src="path_to_linkedin_icon">
-  <img align="center" alt="WhatsApp Icon" height="30" width="40" src="path_to_whatsapp_icon">
+  <a href="mailto:bc@inmotion.today">
+    <img align="center" alt="Mail Icon" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/email.png">
+  </a>
+  <a href="tel:+351915542701">
+    <img align="center" alt="Phone Icon" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/phone.png">
+  </a>
+  <a href="https://www.linkedin.com/company/inmotionc">
+    <img align="center" alt="LinkedIn Icon" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">
+  </a>
+  <a href="https://wa.me/351915542701">
+    <img align="center" alt="WhatsApp Icon" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png">
+  </a>
 </div>
 
