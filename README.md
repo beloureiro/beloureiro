@@ -7,37 +7,12 @@
   <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Rust" height="30" width="30"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
-
-<img align="center" alt="TypeScript" height="30" width="30"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-
-<img align="center" alt="Node.js" height="30" width="30"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-<img align="center" alt="PostgreSQL" height="30" width="30"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-
-<img align="center" alt="Docker" height="30" width="30"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-
-<img align="center" alt="Git" height="30" width="30"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-<!-- AI / Machine Learning -->
-<img align="center" alt="TensorFlow" height="30" width="30"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-
-<img align="center" alt="PyTorch" height="30" width="30"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
-
-<img align="center" alt="Scikit-Learn" height="30" width="30"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg">
-
-<img align="center" alt="Jupyter" height="30" width="30"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-
+  <img align="center" alt="Rust" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Node.js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
   <!-- Line break to separate the two sections -->
   <br><br>
